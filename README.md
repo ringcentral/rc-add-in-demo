@@ -55,7 +55,7 @@ In `src/server/routes/notification.js`, follow steps in `notification` function.
 
 ```bash
 # init database
-node scripts/init-db.js
+npm run initDB
 
 # open a new terminal
 # start local server
